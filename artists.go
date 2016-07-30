@@ -4,8 +4,8 @@ import (
 	"os"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/fujirockers.org/2ch-fujirock-bestact/model"
-	"github.com/fujirockers.org/2ch-fujirock-bestact/util"
+	"github.com/fujirockers-org/TheYearOfActs/model"
+	"github.com/fujirockers-org/TheYearOfActs/util"
 )
 
 const YEAR = "2016"
