@@ -4,13 +4,16 @@
     {
       "Name": "SIGUR RÓS",
       "Reference": [
-        "SIGUR RÓS"
+        "SIGUR RÓS",
+        "SigurRos",
+        "シガーロス"
       ]
     },
     {
       "Name": "BECK",
       "Reference": [
-        "BECK"
+        "BECK",
+        "ベック"
       ]
     },
     {
@@ -24,19 +27,23 @@
     {
       "Name": "JAMES BLAKE",
       "Reference": [
-        "JAMES BLAKE"
+        "JAMES BLAKE",
+        "JB"
       ]
     },
     {
       "Name": "WILCO",
       "Reference": [
-        "WILCO"
+        "WILCO",
+        "ウィルコ"
       ]
     },
     {
       "Name": "BEN HARPER \u0026 THE INNOCENT CRIMINALS",
       "Reference": [
-        "BEN HARPER \u0026 THE INNOCENT CRIMINALS"
+        "BEN HARPER \u0026 THE INNOCENT CRIMINALS",
+        "BenHarper",
+        "ベンハーパー"
       ]
     },
     {
@@ -66,7 +73,8 @@
     {
       "Name": "MAN WITH A MISSION",
       "Reference": [
-        "MAN WITH A MISSION"
+        "MAN WITH A MISSION",
+        "マンウィズ"
       ]
     },
     {
@@ -96,13 +104,16 @@
     {
       "Name": "BOREDOMS",
       "Reference": [
-        "BOREDOMS"
+        "BOREDOMS",
+        "ボアダムス",
+        "ボア"
       ]
     },
     {
       "Name": "WANIMA",
       "Reference": [
-        "WANIMA"
+        "WANIMA",
+        "ワニマ"
       ]
     },
     {
@@ -120,7 +131,8 @@
     {
       "Name": "SPECIAL GUEST：電気グルーヴ",
       "Reference": [
-        "SPECIAL GUEST：電気グルーヴ"
+        "電気グルーヴ",
+        "電気"
       ]
     },
     {
@@ -138,7 +150,9 @@
     {
       "Name": "BATTLES",
       "Reference": [
-        "BATTLES"
+        "BATTLES",
+        "バトルス",
+        "バトルズ"
       ]
     },
     {
@@ -176,7 +190,8 @@
     {
       "Name": "BABYMETAL",
       "Reference": [
-        "BABYMETAL"
+        "BABYMETAL",
+        "ベビメタ"
       ]
     },
     {
