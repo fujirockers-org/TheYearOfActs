@@ -1,0 +1,1499 @@
+{
+  "Year": "2016",
+  "Artists": [
+    {
+      "Name": "SIGUR RÓS",
+      "Reference": [
+        "SIGUR RÓS"
+      ]
+    },
+    {
+      "Name": "BECK",
+      "Reference": [
+        "BECK"
+      ]
+    },
+    {
+      "Name": "RED HOT CHILI PEPPERS",
+      "Reference": [
+        "RED HOT CHILI PEPPERS",
+        "レッチリ",
+        "RHCP"
+      ]
+    },
+    {
+      "Name": "JAMES BLAKE",
+      "Reference": [
+        "JAMES BLAKE"
+      ]
+    },
+    {
+      "Name": "WILCO",
+      "Reference": [
+        "WILCO"
+      ]
+    },
+    {
+      "Name": "BEN HARPER \u0026 THE INNOCENT CRIMINALS",
+      "Reference": [
+        "BEN HARPER \u0026 THE INNOCENT CRIMINALS"
+      ]
+    },
+    {
+      "Name": "ROUTE 17 Rock'n'Roll ORCHESTRA(feat. 八代亜紀、仲井戸\"CHABO\"麗市、奥田民生、トータス松本)",
+      "Reference": [
+        "ROUTE 17 Rock'n'Roll ORCHESTRA(feat. 八代亜紀、仲井戸\"CHABO\"麗市、奥田民生、トータス松本)"
+      ]
+    },
+    {
+      "Name": "TRAVIS",
+      "Reference": [
+        "TRAVIS"
+      ]
+    },
+    {
+      "Name": "Ken Yokoyama",
+      "Reference": [
+        "Ken Yokoyama"
+      ]
+    },
+    {
+      "Name": "JAKE BUGG",
+      "Reference": [
+        "JAKE BUGG"
+      ]
+    },
+    {
+      "Name": "MAN WITH A MISSION",
+      "Reference": [
+        "MAN WITH A MISSION"
+      ]
+    },
+    {
+      "Name": "STEREOPHONICS",
+      "Reference": [
+        "STEREOPHONICS"
+      ]
+    },
+    {
+      "Name": "BIFFY CLYRO",
+      "Reference": [
+        "BIFFY CLYRO"
+      ]
+    },
+    {
+      "Name": "TOM ODELL",
+      "Reference": [
+        "TOM ODELL"
+      ]
+    },
+    {
+      "Name": "2CELLOS",
+      "Reference": [
+        "2CELLOS"
+      ]
+    },
+    {
+      "Name": "BOREDOMS",
+      "Reference": [
+        "BOREDOMS"
+      ]
+    },
+    {
+      "Name": "WANIMA",
+      "Reference": [
+        "WANIMA"
+      ]
+    },
+    {
+      "Name": "MARK ERNESTUS' NDAGGA RHYTHM FORCE",
+      "Reference": [
+        "MARK ERNESTUS' NDAGGA RHYTHM FORCE"
+      ]
+    },
+    {
+      "Name": "FRF 20th SPECIAL G\u0026G Miller Orchestra (JUMP WITH JOEY、FRONTPAGE ORCHESTRA、加藤登紀子、曽我部恵一、中納良恵)",
+      "Reference": [
+        "FRF 20th SPECIAL G\u0026G Miller Orchestra (JUMP WITH JOEY、FRONTPAGE ORCHESTRA、加藤登紀子、曽我部恵一、中納良恵)"
+      ]
+    },
+    {
+      "Name": "SPECIAL GUEST：電気グルーヴ",
+      "Reference": [
+        "SPECIAL GUEST：電気グルーヴ"
+      ]
+    },
+    {
+      "Name": "DISCLOSURE",
+      "Reference": [
+        "DISCLOSURE"
+      ]
+    },
+    {
+      "Name": "SQUAREPUSHER",
+      "Reference": [
+        "SQUAREPUSHER"
+      ]
+    },
+    {
+      "Name": "BATTLES",
+      "Reference": [
+        "BATTLES"
+      ]
+    },
+    {
+      "Name": "FLIGHT FACILITIES",
+      "Reference": [
+        "FLIGHT FACILITIES"
+      ]
+    },
+    {
+      "Name": "TORTOISE",
+      "Reference": [
+        "TORTOISE",
+        "トータス"
+      ]
+    },
+    {
+      "Name": "EXPLOSIONS IN THE SKY",
+      "Reference": [
+        "EXPLOSIONS IN THE SKY",
+        "EITS"
+      ]
+    },
+    {
+      "Name": "illion",
+      "Reference": [
+        "illion"
+      ]
+    },
+    {
+      "Name": "EGO-WRAPPIN'",
+      "Reference": [
+        "EGO-WRAPPIN'"
+      ]
+    },
+    {
+      "Name": "BABYMETAL",
+      "Reference": [
+        "BABYMETAL"
+      ]
+    },
+    {
+      "Name": "THE INTERNET",
+      "Reference": [
+        "THE INTERNET"
+      ]
+    },
+    {
+      "Name": "THE HEAVY",
+      "Reference": [
+        "THE HEAVY"
+      ]
+    },
+    {
+      "Name": "ROBERT GLASPER EXPERIMENT",
+      "Reference": [
+        "ROBERT GLASPER EXPERIMENT"
+      ]
+    },
+    {
+      "Name": "Suchmos",
+      "Reference": [
+        "Suchmos"
+      ]
+    },
+    {
+      "Name": "在日ファンク",
+      "Reference": [
+        "在日ファンク"
+      ]
+    },
+    {
+      "Name": "SOIL\u0026\"PIMP\"SESSIONS",
+      "Reference": [
+        "SOIL\u0026\"PIMP\"SESSIONS"
+      ]
+    },
+    {
+      "Name": "KOHH",
+      "Reference": [
+        "KOHH"
+      ]
+    },
+    {
+      "Name": "VANT",
+      "Reference": [
+        "VANT"
+      ]
+    },
+    {
+      "Name": "DEAFHEAVEN ",
+      "Reference": [
+        "DEAFHEAVEN "
+      ]
+    },
+    {
+      "Name": "LA GOSSA SORDA",
+      "Reference": [
+        "LA GOSSA SORDA"
+      ]
+    },
+    {
+      "Name": "THE COLLECTORS",
+      "Reference": [
+        "THE COLLECTORS"
+      ]
+    },
+    {
+      "Name": "BO NINGEN",
+      "Reference": [
+        "BO NINGEN"
+      ]
+    },
+    {
+      "Name": "The Birthday",
+      "Reference": [
+        "The Birthday"
+      ]
+    },
+    {
+      "Name": "KULA SHAKER",
+      "Reference": [
+        "KULA SHAKER"
+      ]
+    },
+    {
+      "Name": "YEARS \u0026 YEARS",
+      "Reference": [
+        "YEARS \u0026 YEARS"
+      ]
+    },
+    {
+      "Name": "THE BAWDIES",
+      "Reference": [
+        "THE BAWDIES"
+      ]
+    },
+    {
+      "Name": "ザ・クロマニヨンズ",
+      "Reference": [
+        "ザ・クロマニヨンズ"
+      ]
+    },
+    {
+      "Name": "JACK GARRATT",
+      "Reference": [
+        "JACK GARRATT"
+      ]
+    },
+    {
+      "Name": "COURTNEY BARNETT",
+      "Reference": [
+        "COURTNEY BARNETT"
+      ]
+    },
+    {
+      "Name": "LOOK PARK",
+      "Reference": [
+        "LOOK PARK"
+      ]
+    },
+    {
+      "Name": "SHERBETS",
+      "Reference": [
+        "SHERBETS"
+      ]
+    },
+    {
+      "Name": "LÅPSLEY",
+      "Reference": [
+        "LÅPSLEY"
+      ]
+    },
+    {
+      "Name": "大森靖子 ",
+      "Reference": [
+        "大森靖子 "
+      ]
+    },
+    {
+      "Name": "TROYE SIVAN",
+      "Reference": [
+        "TROYE SIVAN"
+      ]
+    },
+    {
+      "Name": "TRASHCAN SINATRAS",
+      "Reference": [
+        "TRASHCAN SINATRAS"
+      ]
+    },
+    {
+      "Name": "THE ALBUM LEAF",
+      "Reference": [
+        "THE ALBUM LEAF"
+      ]
+    },
+    {
+      "Name": "DMA'S",
+      "Reference": [
+        "DMA'S"
+      ]
+    },
+    {
+      "Name": "LUCKY TAPES",
+      "Reference": [
+        "LUCKY TAPES"
+      ]
+    },
+    {
+      "Name": "avengers in sci-fi",
+      "Reference": [
+        "avengers in sci-fi"
+      ]
+    },
+    {
+      "Name": "SLOT MACHINE",
+      "Reference": [
+        "SLOT MACHINE"
+      ]
+    },
+    {
+      "Name": "Homecomings",
+      "Reference": [
+        "Homecomings"
+      ]
+    },
+    {
+      "Name": "SABANNAMAN (selected by ROOKIE A GO-GO)",
+      "Reference": [
+        "SABANNAMAN (selected by ROOKIE A GO-GO)"
+      ]
+    },
+    {
+      "Name": "D.A.N.",
+      "Reference": [
+        "D.A.N."
+      ]
+    },
+    {
+      "Name": "KILL THE NOISE",
+      "Reference": [
+        "KILL THE NOISE"
+      ]
+    },
+    {
+      "Name": "VIDEOTAPEMUSIC × cero",
+      "Reference": [
+        "VIDEOTAPEMUSIC × cero"
+      ]
+    },
+    {
+      "Name": "MURA MASA",
+      "Reference": [
+        "MURA MASA"
+      ]
+    },
+    {
+      "Name": "BAAUER",
+      "Reference": [
+        "BAAUER"
+      ]
+    },
+    {
+      "Name": "EYƎ",
+      "Reference": [
+        "EYƎ"
+      ]
+    },
+    {
+      "Name": "SOPHIE",
+      "Reference": [
+        "SOPHIE"
+      ]
+    },
+    {
+      "Name": "TODD TERRY",
+      "Reference": [
+        "TODD TERRY"
+      ]
+    },
+    {
+      "Name": "SOICHI TERADA",
+      "Reference": [
+        "SOICHI TERADA"
+      ]
+    },
+    {
+      "Name": "OLIVER HELDENS",
+      "Reference": [
+        "OLIVER HELDENS"
+      ]
+    },
+    {
+      "Name": "TRESVIBES SOUNDSYSTEM",
+      "Reference": [
+        "TRESVIBES SOUNDSYSTEM"
+      ]
+    },
+    {
+      "Name": "DJ HARVEY",
+      "Reference": [
+        "DJ HARVEY"
+      ]
+    },
+    {
+      "Name": "SHINTARO",
+      "Reference": [
+        "SHINTARO"
+      ]
+    },
+    {
+      "Name": "THE NEW MASTERSOUNDS",
+      "Reference": [
+        "THE NEW MASTERSOUNDS"
+      ]
+    },
+    {
+      "Name": "SPECIAL OTHERS",
+      "Reference": [
+        "SPECIAL OTHERS"
+      ]
+    },
+    {
+      "Name": "KAMASI WASHINGTON",
+      "Reference": [
+        "KAMASI WASHINGTON",
+        "Kamasi",
+        "カマシ"
+      ]
+    },
+    {
+      "Name": "LEE \"SCRATCH\" PERRY",
+      "Reference": [
+        "LEE \"SCRATCH\" PERRY"
+      ]
+    },
+    {
+      "Name": "G.LOVE \u0026 SPECIAL SAUCE",
+      "Reference": [
+        "G.LOVE \u0026 SPECIAL SAUCE"
+      ]
+    },
+    {
+      "Name": "ERNEST RANGLIN \u0026 FRIENDS",
+      "Reference": [
+        "ERNEST RANGLIN \u0026 FRIENDS"
+      ]
+    },
+    {
+      "Name": "JUMP WITH JOEY",
+      "Reference": [
+        "JUMP WITH JOEY"
+      ]
+    },
+    {
+      "Name": "CON BRIO",
+      "Reference": [
+        "CON BRIO"
+      ]
+    },
+    {
+      "Name": "LEON BRIDGES",
+      "Reference": [
+        "LEON BRIDGES"
+      ]
+    },
+    {
+      "Name": "UA",
+      "Reference": [
+        "UA"
+      ]
+    },
+    {
+      "Name": "ROVO",
+      "Reference": [
+        "ROVO"
+      ]
+    },
+    {
+      "Name": "はちみつぱい",
+      "Reference": [
+        "はちみつぱい"
+      ]
+    },
+    {
+      "Name": "LITTLE CREATURES",
+      "Reference": [
+        "LITTLE CREATURES"
+      ]
+    },
+    {
+      "Name": "MARK ERNESTUS' NDAGGA RHYTHM FORCE",
+      "Reference": [
+        "MARK ERNESTUS' NDAGGA RHYTHM FORCE"
+      ]
+    },
+    {
+      "Name": "dCprG",
+      "Reference": [
+        "dCprG"
+      ]
+    },
+    {
+      "Name": "奇妙礼太郎",
+      "Reference": [
+        "奇妙礼太郎"
+      ]
+    },
+    {
+      "Name": "踊ってばかりの国",
+      "Reference": [
+        "踊ってばかりの国"
+      ]
+    },
+    {
+      "Name": "fox capture plan",
+      "Reference": [
+        "fox capture plan"
+      ]
+    },
+    {
+      "Name": "Leyona",
+      "Reference": [
+        "Leyona"
+      ]
+    },
+    {
+      "Name": "KENTA HAYASHI",
+      "Reference": [
+        "KENTA HAYASHI"
+      ]
+    },
+    {
+      "Name": "Kodäma",
+      "Reference": [
+        "Kodäma"
+      ]
+    },
+    {
+      "Name": "NakamuraEmi",
+      "Reference": [
+        "NakamuraEmi"
+      ]
+    },
+    {
+      "Name": "Kan Sano",
+      "Reference": [
+        "Kan Sano"
+      ]
+    },
+    {
+      "Name": "BimBamBoom",
+      "Reference": [
+        "BimBamBoom"
+      ]
+    },
+    {
+      "Name": "金 佑龍",
+      "Reference": [
+        "金 佑龍"
+      ]
+    },
+    {
+      "Name": "松崎ナオ",
+      "Reference": [
+        "松崎ナオ"
+      ]
+    },
+    {
+      "Name": "PENGUIN",
+      "Reference": [
+        "PENGUIN"
+      ]
+    },
+    {
+      "Name": "アトミック・カフェ遠藤ミチロウ",
+      "Reference": [
+        "アトミック・カフェ遠藤ミチロウ"
+      ]
+    },
+    {
+      "Name": "アトミック・カフェホリエアツシ(STRAIGHTENER、ent) feat. セリザワユウマ(SPECIAL OTHERS)",
+      "Reference": [
+        "アトミック・カフェホリエアツシ(STRAIGHTENER、ent) feat. セリザワユウマ(SPECIAL OTHERS)"
+      ]
+    },
+    {
+      "Name": "ケロポンズ",
+      "Reference": [
+        "ケロポンズ"
+      ]
+    },
+    {
+      "Name": "アトミック・カフェ トーク【津田大介・木村真三（放射線衛生学者）】",
+      "Reference": [
+        "アトミック・カフェ トーク【津田大介・木村真三（放射線衛生学者）】"
+      ]
+    },
+    {
+      "Name": "アトミック・カフェ トーク【津田大介・奥田愛基（SEALDs）・吉田明子（FoE Japan）】",
+      "Reference": [
+        "アトミック・カフェ トーク【津田大介・奥田愛基（SEALDs）・吉田明子（FoE Japan）】"
+      ]
+    },
+    {
+      "Name": "アトミック・カフェ加藤登紀子 meets 大友良英 with Love Farmers",
+      "Reference": [
+        "アトミック・カフェ加藤登紀子 meets 大友良英 with Love Farmers"
+      ]
+    },
+    {
+      "Name": "YeYe",
+      "Reference": [
+        "YeYe"
+      ]
+    },
+    {
+      "Name": "臼井ミトン with 中條卓+沼澤尚",
+      "Reference": [
+        "臼井ミトン with 中條卓+沼澤尚"
+      ]
+    },
+    {
+      "Name": "アトミック・カフェ トーク【津田大介・加藤登紀子・大友良英】",
+      "Reference": [
+        "アトミック・カフェ トーク【津田大介・加藤登紀子・大友良英】"
+      ]
+    },
+    {
+      "Name": "中村佳穂",
+      "Reference": [
+        "中村佳穂"
+      ]
+    },
+    {
+      "Name": "jan and naomi",
+      "Reference": [
+        "jan and naomi"
+      ]
+    },
+    {
+      "Name": "ザ・なつやすみバンド",
+      "Reference": [
+        "ザ・なつやすみバンド"
+      ]
+    },
+    {
+      "Name": "Kai, Natsuki",
+      "Reference": [
+        "Kai, Natsuki"
+      ]
+    },
+    {
+      "Name": "Upendra and friends plus Mr.Sunil and Sabin",
+      "Reference": [
+        "Upendra and friends plus Mr.Sunil and Sabin"
+      ]
+    },
+    {
+      "Name": "GAZ MAYALL",
+      "Reference": [
+        "GAZ MAYALL"
+      ]
+    },
+    {
+      "Name": "GAZ MAYALL",
+      "Reference": [
+        "GAZ MAYALL"
+      ]
+    },
+    {
+      "Name": "GAZ MAYALL",
+      "Reference": [
+        "GAZ MAYALL"
+      ]
+    },
+    {
+      "Name": "3776",
+      "Reference": [
+        "3776"
+      ]
+    },
+    {
+      "Name": "BANDERAS",
+      "Reference": [
+        "BANDERAS"
+      ]
+    },
+    {
+      "Name": "G.LOVE\u0026SPECIAL SAUCE",
+      "Reference": [
+        "G.LOVE\u0026SPECIAL SAUCE"
+      ]
+    },
+    {
+      "Name": "JOEY ALTRUDA",
+      "Reference": [
+        "JOEY ALTRUDA"
+      ]
+    },
+    {
+      "Name": "尾川雄介",
+      "Reference": [
+        "尾川雄介"
+      ]
+    },
+    {
+      "Name": "AWESOME TAPES FROM AFRICA",
+      "Reference": [
+        "AWESOME TAPES FROM AFRICA"
+      ]
+    },
+    {
+      "Name": "CON BRIO",
+      "Reference": [
+        "CON BRIO"
+      ]
+    },
+    {
+      "Name": "DRILL SOUND SYSTEM",
+      "Reference": [
+        "DRILL SOUND SYSTEM"
+      ]
+    },
+    {
+      "Name": "REGGAELATION INDEPENDANCE",
+      "Reference": [
+        "REGGAELATION INDEPENDANCE"
+      ]
+    },
+    {
+      "Name": "ROLANDO BRUNO",
+      "Reference": [
+        "ROLANDO BRUNO"
+      ]
+    },
+    {
+      "Name": "須永辰緒",
+      "Reference": [
+        "須永辰緒"
+      ]
+    },
+    {
+      "Name": "沖野修也 (KYOTO JAZZ MASSIVE)",
+      "Reference": [
+        "沖野修也 (KYOTO JAZZ MASSIVE)"
+      ]
+    },
+    {
+      "Name": "LA GOSSA SORDA",
+      "Reference": [
+        "LA GOSSA SORDA"
+      ]
+    },
+    {
+      "Name": "NST \u0026 THE SOUL SAUCE",
+      "Reference": [
+        "NST \u0026 THE SOUL SAUCE"
+      ]
+    },
+    {
+      "Name": "JUMP WITH JOEY",
+      "Reference": [
+        "JUMP WITH JOEY"
+      ]
+    },
+    {
+      "Name": "CARIBBEAN DANDY",
+      "Reference": [
+        "CARIBBEAN DANDY"
+      ]
+    },
+    {
+      "Name": "DR.IHARA (CLUB SKA)",
+      "Reference": [
+        "DR.IHARA (CLUB SKA)"
+      ]
+    },
+    {
+      "Name": "DJ.JIM",
+      "Reference": [
+        "DJ.JIM"
+      ]
+    },
+    {
+      "Name": "THE CABARET CATS' REVUE with JVC FORCE TYO",
+      "Reference": [
+        "THE CABARET CATS' REVUE with JVC FORCE TYO"
+      ]
+    },
+    {
+      "Name": "LOS ICARIOS FLYING CIRCUS",
+      "Reference": [
+        "LOS ICARIOS FLYING CIRCUS"
+      ]
+    },
+    {
+      "Name": "LOS ICARIOS FLYING CIRCUS",
+      "Reference": [
+        "LOS ICARIOS FLYING CIRCUS"
+      ]
+    },
+    {
+      "Name": "LOS ICARIOS FLYING CIRCUS",
+      "Reference": [
+        "LOS ICARIOS FLYING CIRCUS"
+      ]
+    },
+    {
+      "Name": "THE ILLUSIVE MAN",
+      "Reference": [
+        "THE ILLUSIVE MAN"
+      ]
+    },
+    {
+      "Name": "THE ILLUSIVE MAN",
+      "Reference": [
+        "THE ILLUSIVE MAN"
+      ]
+    },
+    {
+      "Name": "THE ILLUSIVE MAN",
+      "Reference": [
+        "THE ILLUSIVE MAN"
+      ]
+    },
+    {
+      "Name": "踊る！ディスコ室町",
+      "Reference": [
+        "踊る！ディスコ室町"
+      ]
+    },
+    {
+      "Name": "50/50's",
+      "Reference": [
+        "50/50's"
+      ]
+    },
+    {
+      "Name": "HERO COMPLEX",
+      "Reference": [
+        "HERO COMPLEX"
+      ]
+    },
+    {
+      "Name": "LOVE SPREAD",
+      "Reference": [
+        "LOVE SPREAD"
+      ]
+    },
+    {
+      "Name": "Gi Gi Giraffe",
+      "Reference": [
+        "Gi Gi Giraffe"
+      ]
+    },
+    {
+      "Name": "SIX LOUNGE",
+      "Reference": [
+        "SIX LOUNGE"
+      ]
+    },
+    {
+      "Name": "The Taupe",
+      "Reference": [
+        "The Taupe"
+      ]
+    },
+    {
+      "Name": "Wanna-Gonna",
+      "Reference": [
+        "Wanna-Gonna"
+      ]
+    },
+    {
+      "Name": "羊文学",
+      "Reference": [
+        "羊文学"
+      ]
+    },
+    {
+      "Name": "Nao Kawamura",
+      "Reference": [
+        "Nao Kawamura"
+      ]
+    },
+    {
+      "Name": "polloca",
+      "Reference": [
+        "polloca"
+      ]
+    },
+    {
+      "Name": "South Penguin",
+      "Reference": [
+        "South Penguin"
+      ]
+    },
+    {
+      "Name": "yahyel",
+      "Reference": [
+        "yahyel"
+      ]
+    },
+    {
+      "Name": "Gateballers",
+      "Reference": [
+        "Gateballers"
+      ]
+    },
+    {
+      "Name": "MONO NO AWARE",
+      "Reference": [
+        "MONO NO AWARE"
+      ]
+    },
+    {
+      "Name": "苗場音楽突撃隊（池畑潤二/井上富雄/花田裕之）",
+      "Reference": [
+        "苗場音楽突撃隊（池畑潤二/井上富雄/花田裕之）"
+      ]
+    },
+    {
+      "Name": "トミー富岡",
+      "Reference": [
+        "トミー富岡"
+      ]
+    },
+    {
+      "Name": "トミー富岡",
+      "Reference": [
+        "トミー富岡"
+      ]
+    },
+    {
+      "Name": "DENIMS",
+      "Reference": [
+        "DENIMS"
+      ]
+    },
+    {
+      "Name": "苗場音楽突撃隊（池畑潤二/井上富雄/花田裕之）",
+      "Reference": [
+        "苗場音楽突撃隊（池畑潤二/井上富雄/花田裕之）"
+      ]
+    },
+    {
+      "Name": "苗場音楽突撃隊（池畑潤二/井上富雄/花田裕之）",
+      "Reference": [
+        "苗場音楽突撃隊（池畑潤二/井上富雄/花田裕之）"
+      ]
+    },
+    {
+      "Name": "ワンダフルボーイズ",
+      "Reference": [
+        "ワンダフルボーイズ"
+      ]
+    },
+    {
+      "Name": "井乃頭蓄音団 with 上野洋子/鈴木慶一",
+      "Reference": [
+        "井乃頭蓄音団 with 上野洋子/鈴木慶一"
+      ]
+    },
+    {
+      "Name": "太陽バンド",
+      "Reference": [
+        "太陽バンド"
+      ]
+    },
+    {
+      "Name": "ザ・たこさん",
+      "Reference": [
+        "ザ・たこさん"
+      ]
+    },
+    {
+      "Name": "uri gagarn",
+      "Reference": [
+        "uri gagarn"
+      ]
+    },
+    {
+      "Name": "DJみそしるとMCごはん",
+      "Reference": [
+        "DJみそしるとMCごはん"
+      ]
+    },
+    {
+      "Name": "三宅伸治BAND",
+      "Reference": [
+        "三宅伸治BAND"
+      ]
+    },
+    {
+      "Name": "スマートソウルコネクション",
+      "Reference": [
+        "スマートソウルコネクション"
+      ]
+    },
+    {
+      "Name": "グッドラックヘイワ",
+      "Reference": [
+        "グッドラックヘイワ"
+      ]
+    },
+    {
+      "Name": "MOROHA",
+      "Reference": [
+        "MOROHA"
+      ]
+    },
+    {
+      "Name": "blues.the butcher-590213",
+      "Reference": [
+        "blues.the butcher-590213"
+      ]
+    },
+    {
+      "Name": "金 佑龍",
+      "Reference": [
+        "金 佑龍"
+      ]
+    },
+    {
+      "Name": "ザ・なつやすみバンド",
+      "Reference": [
+        "ザ・なつやすみバンド"
+      ]
+    },
+    {
+      "Name": "山﨑彩音",
+      "Reference": [
+        "山﨑彩音"
+      ]
+    },
+    {
+      "Name": "太陽バンド",
+      "Reference": [
+        "太陽バンド"
+      ]
+    },
+    {
+      "Name": "藤原さくら",
+      "Reference": [
+        "藤原さくら"
+      ]
+    },
+    {
+      "Name": "オオヤユウスケ",
+      "Reference": [
+        "オオヤユウスケ"
+      ]
+    },
+    {
+      "Name": "蠣崎未来",
+      "Reference": [
+        "蠣崎未来"
+      ]
+    },
+    {
+      "Name": "グッドラックヘイワ",
+      "Reference": [
+        "グッドラックヘイワ"
+      ]
+    },
+    {
+      "Name": "UPENDRA \u0026 FRIENDS",
+      "Reference": [
+        "UPENDRA \u0026 FRIENDS"
+      ]
+    },
+    {
+      "Name": "ヨガワークショップ/BASEWORKS",
+      "Reference": [
+        "ヨガワークショップ/BASEWORKS"
+      ]
+    },
+    {
+      "Name": "ヨガワークショップ/BASEWORKS",
+      "Reference": [
+        "ヨガワークショップ/BASEWORKS"
+      ]
+    },
+    {
+      "Name": "ヨガワークショップ/BASEWORKS",
+      "Reference": [
+        "ヨガワークショップ/BASEWORKS"
+      ]
+    },
+    {
+      "Name": "ムジカ・ピッコリーノ メロトロン号の仲間たち",
+      "Reference": [
+        "ムジカ・ピッコリーノ メロトロン号の仲間たち"
+      ]
+    },
+    {
+      "Name": "Predawn",
+      "Reference": [
+        "Predawn"
+      ]
+    },
+    {
+      "Name": "Caravan \u0026 GOMA",
+      "Reference": [
+        "Caravan \u0026 GOMA"
+      ]
+    },
+    {
+      "Name": "DJ/渡辺俊美",
+      "Reference": [
+        "DJ/渡辺俊美"
+      ]
+    },
+    {
+      "Name": "DJ/濱田大介(Little Nap COFFEE STAND)",
+      "Reference": [
+        "DJ/濱田大介(Little Nap COFFEE STAND)"
+      ]
+    },
+    {
+      "Name": "DJ/YAMAZAKI HIROKAZU(toe)",
+      "Reference": [
+        "DJ/YAMAZAKI HIROKAZU(toe)"
+      ]
+    },
+    {
+      "Name": "DJ/AYASHIGE(WRENCH)",
+      "Reference": [
+        "DJ/AYASHIGE(WRENCH)"
+      ]
+    },
+    {
+      "Name": "DJ/ZAMIANG",
+      "Reference": [
+        "DJ/ZAMIANG"
+      ]
+    },
+    {
+      "Name": "DJ/higo-vicious",
+      "Reference": [
+        "DJ/higo-vicious"
+      ]
+    },
+    {
+      "Name": "野田洋次郎(RADWIMPS)",
+      "Reference": [
+        "野田洋次郎(RADWIMPS)"
+      ]
+    },
+    {
+      "Name": "細美 武士",
+      "Reference": [
+        "細美 武士"
+      ]
+    },
+    {
+      "Name": "DJ/今谷忠弘(ホテルニュートーキョー)",
+      "Reference": [
+        "DJ/今谷忠弘(ホテルニュートーキョー)"
+      ]
+    },
+    {
+      "Name": "ROTH BART BARON",
+      "Reference": [
+        "ROTH BART BARON"
+      ]
+    },
+    {
+      "Name": "ホテルニュートーキョー \u0026 山㟢廣和(toe)、柏倉隆史(toe/the HIATUS)",
+      "Reference": [
+        "ホテルニュートーキョー \u0026 山㟢廣和(toe)、柏倉隆史(toe/the HIATUS)"
+      ]
+    },
+    {
+      "Name": "原田郁子",
+      "Reference": [
+        "原田郁子"
+      ]
+    },
+    {
+      "Name": "LOVE FOR NIPPON BAND(TOSHI-LOW、若旦那、渡辺俊美、臼井ミトン、中條卓、沼澤尚)",
+      "Reference": [
+        "LOVE FOR NIPPON BAND(TOSHI-LOW、若旦那、渡辺俊美、臼井ミトン、中條卓、沼澤尚)"
+      ]
+    },
+    {
+      "Name": "SUNIL\u0026SABIN",
+      "Reference": [
+        "SUNIL\u0026SABIN"
+      ]
+    },
+    {
+      "Name": "ALEX PATERSON (THE ORB) - Ambient Set",
+      "Reference": [
+        "ALEX PATERSON (THE ORB) - Ambient Set"
+      ]
+    },
+    {
+      "Name": "OSAMU MATSUMOTO \u0026 LADIES BELONG TO HORNY FUNK GANG",
+      "Reference": [
+        "OSAMU MATSUMOTO \u0026 LADIES BELONG TO HORNY FUNK GANG"
+      ]
+    },
+    {
+      "Name": "NST \u0026 THE SOUL SAUCE",
+      "Reference": [
+        "NST \u0026 THE SOUL SAUCE"
+      ]
+    },
+    {
+      "Name": "Oi-SKALL MATES",
+      "Reference": [
+        "Oi-SKALL MATES"
+      ]
+    },
+    {
+      "Name": "ASA-CHANG＆巡礼",
+      "Reference": [
+        "ASA-CHANG＆巡礼"
+      ]
+    },
+    {
+      "Name": "加藤登紀子",
+      "Reference": [
+        "加藤登紀子"
+      ]
+    },
+    {
+      "Name": "JUMP WITH JOEY",
+      "Reference": [
+        "JUMP WITH JOEY"
+      ]
+    },
+    {
+      "Name": "OKI DUB AINU BAND",
+      "Reference": [
+        "OKI DUB AINU BAND"
+      ]
+    },
+    {
+      "Name": "ザ・たこさん",
+      "Reference": [
+        "ザ・たこさん"
+      ]
+    },
+    {
+      "Name": "加藤登紀子 meets 大友良英 with Love Farmers",
+      "Reference": [
+        "加藤登紀子 meets 大友良英 with Love Farmers"
+      ]
+    },
+    {
+      "Name": "加藤登紀子",
+      "Reference": [
+        "加藤登紀子"
+      ]
+    },
+    {
+      "Name": "Orquesta Libre+ROLLY",
+      "Reference": [
+        "Orquesta Libre+ROLLY"
+      ]
+    },
+    {
+      "Name": "J.A.M",
+      "Reference": [
+        "J.A.M"
+      ]
+    },
+    {
+      "Name": "カフェドパリ・アナログ・アワー〜「KING OF TUBES」ティム・デ・パラヴィッチー二の軌跡〜",
+      "Reference": [
+        "カフェドパリ・アナログ・アワー〜「KING OF TUBES」ティム・デ・パラヴィッチー二の軌跡〜"
+      ]
+    },
+    {
+      "Name": "Gudni Gudnason",
+      "Reference": [
+        "Gudni Gudnason"
+      ]
+    },
+    {
+      "Name": "53＋84",
+      "Reference": [
+        "53＋84"
+      ]
+    },
+    {
+      "Name": "SODA!",
+      "Reference": [
+        "SODA!"
+      ]
+    },
+    {
+      "Name": "ORBITAL DJ SET (PHIL HARTNOLL)",
+      "Reference": [
+        "ORBITAL DJ SET (PHIL HARTNOLL)"
+      ]
+    },
+    {
+      "Name": "KEN ISHII",
+      "Reference": [
+        "KEN ISHII"
+      ]
+    },
+    {
+      "Name": "DJ NOBU",
+      "Reference": [
+        "DJ NOBU"
+      ]
+    },
+    {
+      "Name": "BBL aka Bryan Burton-Lewis",
+      "Reference": [
+        "BBL aka Bryan Burton-Lewis"
+      ]
+    },
+    {
+      "Name": "Groove Patrol",
+      "Reference": [
+        "Groove Patrol"
+      ]
+    },
+    {
+      "Name": "Naoki Serizawa",
+      "Reference": [
+        "Naoki Serizawa"
+      ]
+    },
+    {
+      "Name": "Bryan Burton-Lewis \u0026 Friends ",
+      "Reference": [
+        "Bryan Burton-Lewis \u0026 Friends "
+      ]
+    },
+    {
+      "Name": "ELLI ARAKAWA",
+      "Reference": [
+        "ELLI ARAKAWA"
+      ]
+    },
+    {
+      "Name": "FAKE EYES PRODUCTION",
+      "Reference": [
+        "FAKE EYES PRODUCTION"
+      ]
+    },
+    {
+      "Name": "DJみそしるとMCごはん",
+      "Reference": [
+        "DJみそしるとMCごはん"
+      ]
+    },
+    {
+      "Name": "Flare a.k.a. Ken Ishii",
+      "Reference": [
+        "Flare a.k.a. Ken Ishii"
+      ]
+    },
+    {
+      "Name": "DJ NOBU -HOUSE SET-",
+      "Reference": [
+        "DJ NOBU -HOUSE SET-"
+      ]
+    },
+    {
+      "Name": "ASANO TADANOBU",
+      "Reference": [
+        "ASANO TADANOBU"
+      ]
+    },
+    {
+      "Name": "TA-KA",
+      "Reference": [
+        "TA-KA"
+      ]
+    },
+    {
+      "Name": "Phil Hartnoll (ORBITAL)",
+      "Reference": [
+        "Phil Hartnoll (ORBITAL)"
+      ]
+    },
+    {
+      "Name": "GUUSUN",
+      "Reference": [
+        "GUUSUN"
+      ]
+    },
+    {
+      "Name": "野笛とタイヂ 〜 地味変",
+      "Reference": [
+        "野笛とタイヂ 〜 地味変"
+      ]
+    },
+    {
+      "Name": "ミーワムーラ＆ヘルメッツ大谷",
+      "Reference": [
+        "ミーワムーラ＆ヘルメッツ大谷"
+      ]
+    },
+    {
+      "Name": "THE END",
+      "Reference": [
+        "THE END"
+      ]
+    },
+    {
+      "Name": "AZUMI",
+      "Reference": [
+        "AZUMI"
+      ]
+    },
+    {
+      "Name": "義理と人情（AZUMI/EMI）",
+      "Reference": [
+        "義理と人情（AZUMI/EMI）"
+      ]
+    },
+    {
+      "Name": "今西太一",
+      "Reference": [
+        "今西太一"
+      ]
+    },
+    {
+      "Name": "Oggy Stardust and the Spiders from Naeba Forest",
+      "Reference": [
+        "Oggy Stardust and the Spiders from Naeba Forest"
+      ]
+    },
+    {
+      "Name": "泉邦宏",
+      "Reference": [
+        "泉邦宏"
+      ]
+    },
+    {
+      "Name": "扇田裕太郎〜1人ピンクフロイド",
+      "Reference": [
+        "扇田裕太郎〜1人ピンクフロイド"
+      ]
+    },
+    {
+      "Name": "ABBAN / 桑田研究会バンド",
+      "Reference": [
+        "ABBAN / 桑田研究会バンド"
+      ]
+    },
+    {
+      "Name": "白崎映美＆東北6県ろ～るショー!!",
+      "Reference": [
+        "白崎映美＆東北6県ろ～るショー!!"
+      ]
+    }
+  ]
+}
