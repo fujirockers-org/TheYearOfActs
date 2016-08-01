@@ -66,6 +66,10 @@ func isVotingPost(t string) bool {
 
 func parseVote(t string) Vote {
 	v := new(Vote)
+
+	if strings.Contains(t, ATTENDANT) {
+		t = strings.Split(t, ATTENDANT)[1]
+	}
 	v.Attend, t = parse(t, BEST_ACT)
 	v.BestActs, t = parse(t, GOOD_ACT)
 	v.GoodActs, t = parse(t, WORST_ACT)
