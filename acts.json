@@ -1,109 +1,849 @@
 {
   "BestAct": {
-    "BABYMETAL": 2,
-    "BATTLES": 6,
-    "BECK": 11,
-    "BIFFY CLYRO": 2,
-    "CON BRIO": 3,
-    "COURTNEY BARNETT": 2,
-    "DEAFHEAVEN ": 1,
-    "DJ HARVEY": 1,
-    "EGO-WRAPPIN'": 1,
-    "EXPLOSIONS IN THE SKY": 4,
-    "FLIGHT FACILITIES": 1,
-    "JAMES BLAKE": 2,
-    "KAMASI WASHINGTON": 13,
-    "KULA SHAKER": 2,
-    "MARK ERNESTUS' NDAGGA RHYTHM FORCE": 2,
-    "RED HOT CHILI PEPPERS": 2,
-    "ROBERT GLASPER EXPERIMENT": 1,
-    "SIGUR RÓS": 2,
-    "SPECIAL GUEST：電気グルーヴ": 1,
-    "SPECIAL OTHERS": 1,
-    "SQUAREPUSHER": 2,
-    "THE HEAVY": 1,
-    "THE NEW MASTERSOUNDS": 1,
-    "TORTOISE": 2,
-    "TRAVIS": 2,
-    "WANIMA": 1,
-    "WILCO": 2
+    "BABYMETAL": {
+      "Count": 2,
+      "Ids": [
+        92,
+        97
+      ]
+    },
+    "BATTLES": {
+      "Count": 6,
+      "Ids": [
+        15,
+        27,
+        32,
+        62,
+        63,
+        80
+      ]
+    },
+    "BECK": {
+      "Count": 11,
+      "Ids": [
+        7,
+        18,
+        31,
+        37,
+        38,
+        45,
+        46,
+        63,
+        70,
+        88,
+        94
+      ]
+    },
+    "BIFFY CLYRO": {
+      "Count": 2,
+      "Ids": [
+        71,
+        86
+      ]
+    },
+    "CON BRIO": {
+      "Count": 3,
+      "Ids": [
+        7,
+        7,
+        77
+      ]
+    },
+    "COURTNEY BARNETT": {
+      "Count": 2,
+      "Ids": [
+        35,
+        64
+      ]
+    },
+    "DEAFHEAVEN ": {
+      "Count": 1,
+      "Ids": [
+        7
+      ]
+    },
+    "DJ HARVEY": {
+      "Count": 1,
+      "Ids": [
+        78
+      ]
+    },
+    "EGO-WRAPPIN'": {
+      "Count": 1,
+      "Ids": [
+        55
+      ]
+    },
+    "EXPLOSIONS IN THE SKY": {
+      "Count": 4,
+      "Ids": [
+        26,
+        49,
+        52,
+        68
+      ]
+    },
+    "FLIGHT FACILITIES": {
+      "Count": 1,
+      "Ids": [
+        67
+      ]
+    },
+    "JAMES BLAKE": {
+      "Count": 2,
+      "Ids": [
+        19,
+        64
+      ]
+    },
+    "KAMASI WASHINGTON": {
+      "Count": 13,
+      "Ids": [
+        5,
+        6,
+        13,
+        29,
+        34,
+        38,
+        44,
+        56,
+        59,
+        63,
+        66,
+        82,
+        93
+      ]
+    },
+    "KULA SHAKER": {
+      "Count": 2,
+      "Ids": [
+        25,
+        84
+      ]
+    },
+    "MARK ERNESTUS' NDAGGA RHYTHM FORCE": {
+      "Count": 2,
+      "Ids": [
+        85,
+        85
+      ]
+    },
+    "RED HOT CHILI PEPPERS": {
+      "Count": 2,
+      "Ids": [
+        65,
+        77
+      ]
+    },
+    "ROBERT GLASPER EXPERIMENT": {
+      "Count": 1,
+      "Ids": [
+        4
+      ]
+    },
+    "SIGUR RÓS": {
+      "Count": 2,
+      "Ids": [
+        17,
+        74
+      ]
+    },
+    "SPECIAL GUEST：電気グルーヴ": {
+      "Count": 1,
+      "Ids": [
+        40
+      ]
+    },
+    "SPECIAL OTHERS": {
+      "Count": 1,
+      "Ids": [
+        30
+      ]
+    },
+    "SQUAREPUSHER": {
+      "Count": 2,
+      "Ids": [
+        61,
+        69
+      ]
+    },
+    "THE HEAVY": {
+      "Count": 1,
+      "Ids": [
+        12
+      ]
+    },
+    "THE NEW MASTERSOUNDS": {
+      "Count": 1,
+      "Ids": [
+        96
+      ]
+    },
+    "TORTOISE": {
+      "Count": 2,
+      "Ids": [
+        15,
+        64
+      ]
+    },
+    "TRAVIS": {
+      "Count": 2,
+      "Ids": [
+        12,
+        61
+      ]
+    },
+    "WANIMA": {
+      "Count": 1,
+      "Ids": [
+        11
+      ]
+    },
+    "WILCO": {
+      "Count": 2,
+      "Ids": [
+        41,
+        73
+      ]
+    }
   },
   "GoodAct": {
-    "ALEX PATERSON (THE ORB) - Ambient Set": 1,
-    "BABYMETAL": 3,
-    "BATTLES": 8,
-    "BECK": 11,
-    "BIFFY CLYRO": 1,
-    "BO NINGEN": 3,
-    "BOREDOMS": 1,
-    "CON BRIO": 10,
-    "COURTNEY BARNETT": 3,
-    "DEAFHEAVEN ": 5,
-    "DISCLOSURE": 1,
-    "DMA'S": 1,
-    "ERNEST RANGLIN \u0026 FRIENDS": 3,
-    "EXPLOSIONS IN THE SKY": 7,
-    "FLIGHT FACILITIES": 3,
-    "G.LOVE\u0026SPECIAL SAUCE": 1,
-    "Homecomings": 1,
-    "JACK GARRATT": 1,
-    "JAKE BUGG": 2,
-    "JAMES BLAKE": 7,
-    "JUMP WITH JOEY": 6,
-    "KAMASI WASHINGTON": 7,
-    "KOHH": 2,
-    "KULA SHAKER": 3,
-    "LA GOSSA SORDA": 4,
-    "MARK ERNESTUS' NDAGGA RHYTHM FORCE": 2,
-    "MURA MASA": 1,
-    "RED HOT CHILI PEPPERS": 9,
-    "ROBERT GLASPER EXPERIMENT": 5,
-    "ROVO": 5,
-    "SIGUR RÓS": 3,
-    "SODA!": 2,
-    "SPECIAL GUEST：電気グルーヴ": 12,
-    "SPECIAL OTHERS": 4,
-    "SQUAREPUSHER": 2,
-    "STEREOPHONICS": 6,
-    "Suchmos": 2,
-    "THE ALBUM LEAF": 3,
-    "THE BAWDIES": 1,
-    "THE END": 2,
-    "THE INTERNET": 2,
-    "THE NEW MASTERSOUNDS": 1,
-    "TOM ODELL": 1,
-    "TORTOISE": 5,
-    "TRAVIS": 11,
-    "The Birthday": 1,
-    "VANT": 2,
-    "WILCO": 8,
-    "dCprG": 3,
-    "はちみつぱい": 4,
-    "アトミック・カフェ遠藤ミチロウ": 1,
-    "グッドラックヘイワ": 2,
-    "ケロポンズ": 2,
-    "ザ・なつやすみバンド": 2,
-    "ザ・クロマニヨンズ": 4,
-    "在日ファンク": 1,
-    "踊ってばかりの国": 2
+    "ALEX PATERSON (THE ORB) - Ambient Set": {
+      "Count": 1,
+      "Ids": [
+        5
+      ]
+    },
+    "BABYMETAL": {
+      "Count": 3,
+      "Ids": [
+        41,
+        64,
+        74
+      ]
+    },
+    "BATTLES": {
+      "Count": 8,
+      "Ids": [
+        34,
+        36,
+        38,
+        44,
+        50,
+        53,
+        90,
+        91
+      ]
+    },
+    "BECK": {
+      "Count": 11,
+      "Ids": [
+        16,
+        19,
+        34,
+        35,
+        41,
+        44,
+        61,
+        68,
+        73,
+        78,
+        80
+      ]
+    },
+    "BIFFY CLYRO": {
+      "Count": 1,
+      "Ids": [
+        78
+      ]
+    },
+    "BO NINGEN": {
+      "Count": 3,
+      "Ids": [
+        12,
+        17,
+        20
+      ]
+    },
+    "BOREDOMS": {
+      "Count": 1,
+      "Ids": [
+        28
+      ]
+    },
+    "CON BRIO": {
+      "Count": 10,
+      "Ids": [
+        5,
+        17,
+        30,
+        61,
+        62,
+        63,
+        67,
+        67,
+        68,
+        71
+      ]
+    },
+    "COURTNEY BARNETT": {
+      "Count": 3,
+      "Ids": [
+        32,
+        70,
+        86
+      ]
+    },
+    "DEAFHEAVEN ": {
+      "Count": 5,
+      "Ids": [
+        15,
+        28,
+        33,
+        36,
+        69
+      ]
+    },
+    "DISCLOSURE": {
+      "Count": 1,
+      "Ids": [
+        85
+      ]
+    },
+    "DMA'S": {
+      "Count": 1,
+      "Ids": [
+        22
+      ]
+    },
+    "ERNEST RANGLIN \u0026 FRIENDS": {
+      "Count": 3,
+      "Ids": [
+        19,
+        32,
+        74
+      ]
+    },
+    "EXPLOSIONS IN THE SKY": {
+      "Count": 7,
+      "Ids": [
+        32,
+        40,
+        41,
+        45,
+        67,
+        83,
+        85
+      ]
+    },
+    "FLIGHT FACILITIES": {
+      "Count": 3,
+      "Ids": [
+        5,
+        26,
+        38
+      ]
+    },
+    "G.LOVE\u0026SPECIAL SAUCE": {
+      "Count": 1,
+      "Ids": [
+        93
+      ]
+    },
+    "Homecomings": {
+      "Count": 1,
+      "Ids": [
+        88
+      ]
+    },
+    "JACK GARRATT": {
+      "Count": 1,
+      "Ids": [
+        53
+      ]
+    },
+    "JAKE BUGG": {
+      "Count": 2,
+      "Ids": [
+        15,
+        38
+      ]
+    },
+    "JAMES BLAKE": {
+      "Count": 7,
+      "Ids": [
+        5,
+        35,
+        45,
+        70,
+        85,
+        90,
+        91
+      ]
+    },
+    "JUMP WITH JOEY": {
+      "Count": 6,
+      "Ids": [
+        40,
+        40,
+        40,
+        71,
+        71,
+        71
+      ]
+    },
+    "KAMASI WASHINGTON": {
+      "Count": 7,
+      "Ids": [
+        6,
+        19,
+        29,
+        49,
+        50,
+        74,
+        83
+      ]
+    },
+    "KOHH": {
+      "Count": 2,
+      "Ids": [
+        35,
+        56
+      ]
+    },
+    "KULA SHAKER": {
+      "Count": 3,
+      "Ids": [
+        61,
+        71,
+        78
+      ]
+    },
+    "LA GOSSA SORDA": {
+      "Count": 4,
+      "Ids": [
+        22,
+        22,
+        53,
+        53
+      ]
+    },
+    "MARK ERNESTUS' NDAGGA RHYTHM FORCE": {
+      "Count": 2,
+      "Ids": [
+        25,
+        25
+      ]
+    },
+    "MURA MASA": {
+      "Count": 1,
+      "Ids": [
+        89
+      ]
+    },
+    "RED HOT CHILI PEPPERS": {
+      "Count": 9,
+      "Ids": [
+        24,
+        31,
+        45,
+        55,
+        73,
+        90,
+        91,
+        92,
+        97
+      ]
+    },
+    "ROBERT GLASPER EXPERIMENT": {
+      "Count": 5,
+      "Ids": [
+        44,
+        45,
+        64,
+        70,
+        91
+      ]
+    },
+    "ROVO": {
+      "Count": 5,
+      "Ids": [
+        17,
+        19,
+        35,
+        38,
+        68
+      ]
+    },
+    "SIGUR RÓS": {
+      "Count": 3,
+      "Ids": [
+        54,
+        68,
+        71
+      ]
+    },
+    "SODA!": {
+      "Count": 2,
+      "Ids": [
+        40,
+        69
+      ]
+    },
+    "SPECIAL GUEST：電気グルーヴ": {
+      "Count": 12,
+      "Ids": [
+        4,
+        30,
+        45,
+        50,
+        64,
+        65,
+        73,
+        78,
+        80,
+        85,
+        90,
+        95
+      ]
+    },
+    "SPECIAL OTHERS": {
+      "Count": 4,
+      "Ids": [
+        22,
+        26,
+        52,
+        55
+      ]
+    },
+    "SQUAREPUSHER": {
+      "Count": 2,
+      "Ids": [
+        17,
+        68
+      ]
+    },
+    "STEREOPHONICS": {
+      "Count": 6,
+      "Ids": [
+        36,
+        53,
+        67,
+        70,
+        86,
+        91
+      ]
+    },
+    "Suchmos": {
+      "Count": 2,
+      "Ids": [
+        13,
+        55
+      ]
+    },
+    "THE ALBUM LEAF": {
+      "Count": 3,
+      "Ids": [
+        26,
+        53,
+        67
+      ]
+    },
+    "THE BAWDIES": {
+      "Count": 1,
+      "Ids": [
+        11
+      ]
+    },
+    "THE END": {
+      "Count": 2,
+      "Ids": [
+        7,
+        69
+      ]
+    },
+    "THE INTERNET": {
+      "Count": 2,
+      "Ids": [
+        25,
+        53
+      ]
+    },
+    "THE NEW MASTERSOUNDS": {
+      "Count": 1,
+      "Ids": [
+        6
+      ]
+    },
+    "TOM ODELL": {
+      "Count": 1,
+      "Ids": [
+        67
+      ]
+    },
+    "TORTOISE": {
+      "Count": 5,
+      "Ids": [
+        12,
+        22,
+        36,
+        53,
+        93
+      ]
+    },
+    "TRAVIS": {
+      "Count": 11,
+      "Ids": [
+        18,
+        34,
+        44,
+        53,
+        55,
+        63,
+        70,
+        73,
+        86,
+        89,
+        94
+      ]
+    },
+    "The Birthday": {
+      "Count": 1,
+      "Ids": [
+        16
+      ]
+    },
+    "VANT": {
+      "Count": 2,
+      "Ids": [
+        61,
+        64
+      ]
+    },
+    "WILCO": {
+      "Count": 8,
+      "Ids": [
+        19,
+        21,
+        30,
+        34,
+        35,
+        46,
+        63,
+        68
+      ]
+    },
+    "dCprG": {
+      "Count": 3,
+      "Ids": [
+        13,
+        26,
+        74
+      ]
+    },
+    "はちみつぱい": {
+      "Count": 4,
+      "Ids": [
+        16,
+        19,
+        31,
+        74
+      ]
+    },
+    "アトミック・カフェ遠藤ミチロウ": {
+      "Count": 1,
+      "Ids": [
+        7
+      ]
+    },
+    "グッドラックヘイワ": {
+      "Count": 2,
+      "Ids": [
+        93,
+        93
+      ]
+    },
+    "ケロポンズ": {
+      "Count": 2,
+      "Ids": [
+        29,
+        80
+      ]
+    },
+    "ザ・なつやすみバンド": {
+      "Count": 2,
+      "Ids": [
+        67,
+        67
+      ]
+    },
+    "ザ・クロマニヨンズ": {
+      "Count": 4,
+      "Ids": [
+        11,
+        69,
+        79,
+        82
+      ]
+    },
+    "在日ファンク": {
+      "Count": 1,
+      "Ids": [
+        58
+      ]
+    },
+    "踊ってばかりの国": {
+      "Count": 2,
+      "Ids": [
+        21,
+        69
+      ]
+    }
   },
   "WorstAct": {
-    "BABYMETAL": 8,
-    "BATTLES": 4,
-    "BECK": 1,
-    "BEN HARPER \u0026 THE INNOCENT CRIMINALS": 1,
-    "BOREDOMS": 7,
-    "CON BRIO": 1,
-    "DMA'S": 1,
-    "EXPLOSIONS IN THE SKY": 1,
-    "FRF 20th SPECIAL G\u0026G Miller Orchestra (JUMP WITH JOEY、FRONTPAGE ORCHESTRA、加藤登紀子、曽我部恵一、中納良恵)": 4,
-    "JAKE BUGG": 1,
-    "KAMASI WASHINGTON": 5,
-    "MAN WITH A MISSION": 1,
-    "RED HOT CHILI PEPPERS": 18,
-    "SIGUR RÓS": 2,
-    "SPECIAL GUEST：電気グルーヴ": 1,
-    "Suchmos": 1,
-    "The Birthday": 2
+    "BABYMETAL": {
+      "Count": 8,
+      "Ids": [
+        19,
+        23,
+        29,
+        47,
+        57,
+        68,
+        92,
+        97
+      ]
+    },
+    "BATTLES": {
+      "Count": 4,
+      "Ids": [
+        27,
+        31,
+        53,
+        80
+      ]
+    },
+    "BECK": {
+      "Count": 1,
+      "Ids": [
+        49
+      ]
+    },
+    "BEN HARPER \u0026 THE INNOCENT CRIMINALS": {
+      "Count": 1,
+      "Ids": [
+        50
+      ]
+    },
+    "BOREDOMS": {
+      "Count": 7,
+      "Ids": [
+        17,
+        21,
+        22,
+        53,
+        66,
+        69,
+        82
+      ]
+    },
+    "CON BRIO": {
+      "Count": 1,
+      "Ids": [
+        38
+      ]
+    },
+    "DMA'S": {
+      "Count": 1,
+      "Ids": [
+        52
+      ]
+    },
+    "EXPLOSIONS IN THE SKY": {
+      "Count": 1,
+      "Ids": [
+        12
+      ]
+    },
+    "FRF 20th SPECIAL G\u0026G Miller Orchestra (JUMP WITH JOEY、FRONTPAGE ORCHESTRA、加藤登紀子、曽我部恵一、中納良恵)": {
+      "Count": 4,
+      "Ids": [
+        3,
+        15,
+        36,
+        91
+      ]
+    },
+    "JAKE BUGG": {
+      "Count": 1,
+      "Ids": [
+        25
+      ]
+    },
+    "KAMASI WASHINGTON": {
+      "Count": 5,
+      "Ids": [
+        4,
+        14,
+        32,
+        45,
+        49
+      ]
+    },
+    "MAN WITH A MISSION": {
+      "Count": 1,
+      "Ids": [
+        11
+      ]
+    },
+    "RED HOT CHILI PEPPERS": {
+      "Count": 18,
+      "Ids": [
+        4,
+        14,
+        27,
+        31,
+        39,
+        40,
+        49,
+        50,
+        53,
+        64,
+        75,
+        79,
+        80,
+        84,
+        86,
+        88,
+        90,
+        94
+      ]
+    },
+    "SIGUR RÓS": {
+      "Count": 2,
+      "Ids": [
+        31,
+        54
+      ]
+    },
+    "SPECIAL GUEST：電気グルーヴ": {
+      "Count": 1,
+      "Ids": [
+        49
+      ]
+    },
+    "Suchmos": {
+      "Count": 1,
+      "Ids": [
+        58
+      ]
+    },
+    "The Birthday": {
+      "Count": 2,
+      "Ids": [
+        11,
+        55
+      ]
+    }
   }
 }

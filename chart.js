@@ -34,7 +34,7 @@ $(function () {
 	
 	        tooltip: {
 	            headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
-	            pointFormat: 'voted by <span style="color:{point.color}">{point.name}</span>: <b>{point.y:.1f}</b> rockers<br/>'
+	            pointFormat: '<span style="color:{point.color}">{point.name}</span>: voted by <b>{point.y:.1f}</b> rockers<br/> {point.ids}<br/>'
 	        },
 	
 	        series: [{
@@ -48,19 +48,19 @@ $(function () {
     $.getJSON("acts.json", function(d){
     	var data = []
         $.each(d.BestAct, function(i, v) {
-            data.push({name: i, y: v, drilldown: null});
+            data.push({name: i, y: v.Count, ids: v.Ids, drilldown: null});
         })
     	$('#container1').highcharts(getCharts("The Year of Best Acts 2016", data));
 
     	data = []
         $.each(d.GoodAct, function(i, v) {
-            data.push({name: i, y: v, drilldown: null});
+            data.push({name: i, y: v.Count, ids: v.Ids, drilldown: null});
         })
     	$('#container2').highcharts(getCharts("Good Acts 2016", data));
 
     	data = []
         $.each(d.WorstAct, function(i, v) {
-            data.push({name: i, y: v, drilldown: null});
+            data.push({name: i, y: v.Count, ids: v.Ids, drilldown: null});
         })
     	$('#container3').highcharts(getCharts("The Year of Worst Acts 2016", data));
     })
