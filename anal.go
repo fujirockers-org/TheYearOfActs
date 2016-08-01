@@ -12,15 +12,7 @@ import (
 	"github.com/fujirockers-org/TheYearOfActs/util"
 )
 
-const (
-	ATTENDANT   = "【参加日】"
-	BEST_ACT    = "【ベストアクト】"
-	GOOD_ACT    = "【良かったアクト】"
-	WORST_ACT   = "【ワーストアクト】"
-	BEST_FOOD   = "【ベスト飯】"
-	WORST_FOOD  = "【ワースト飯】"
-	ETC_COMMENT = "【その他一言】"
-)
+const ATTENDANT = "【参加日】"
 
 func main() {
 	files, err := filepath.Glob("resource/2016/thread/*.html")
@@ -32,6 +24,7 @@ func main() {
 	for _, v := range files {
 		votes = append(votes, parseThread(v)...)
 	}
+	util.WriteJson("resource/2016/award/vote.json", votes)
 
 	artists := decodeArtists()
 	agg := aggregate(votes, artists)
@@ -61,10 +54,18 @@ func parseThread(path string) (votes []Vote) {
 }
 
 func isVotingPost(t string) bool {
-	return strings.Contains(t, BEST_ACT)
+	return strings.Contains(t, ATTENDANT)
 }
 
 func parseVote(t string) Vote {
+
+	BEST_ACT := []string{"【ベストアクト】"}
+	GOOD_ACT := []string{"【良かったアクト】", "【目当てじゃなかったが良かったアクト】"}
+	WORST_ACT := []string{"【ワーストアクト】"}
+	BEST_FOOD := []string{"【ベスト飯】"}
+	WORST_FOOD := []string{"【ワースト飯】"}
+	ETC_COMMENT := []string{"【その他一言】", "【一言】"}
+
 	v := new(Vote)
 
 	if strings.Contains(t, ATTENDANT) {
@@ -75,14 +76,20 @@ func parseVote(t string) Vote {
 	v.GoodActs, t = parse(t, WORST_ACT)
 	v.WorstActs, t = parse(t, BEST_FOOD)
 	v.BestFoods, t = parse(t, WORST_FOOD)
-	v.WorstFoods, v.Comment = parse(t, ETC_COMMENT)
+	v.WorstFoods, t = parse(t, ETC_COMMENT)
+	v.Comment = strings.Trim(t, " 　\r\n")
 
 	return *v
 }
 
-func parse(t, h string) (string, string) {
-	s := strings.Split(t, h)
-	return s[0], strings.Join(s[1:], "")
+func parse(t string, h []string) (string, string) {
+	for _, v := range h {
+		s := strings.Split(t, v)
+		if len(s) > 1 {
+			return strings.Trim(s[0], " 　\r\n"), strings.Join(s[1:], "")
+		}
+	}
+	return t, ""
 }
 
 func decodeArtists() []model.Artist {
@@ -128,11 +135,11 @@ func collect(m map[string]int, l []string) map[string]int {
 }
 
 type Vote struct {
-	Attend     string
-	BestActs   string
-	GoodActs   string
-	WorstActs  string
-	BestFoods  string
-	WorstFoods string
-	Comment    string
+	Attend     string `json:"attend"`
+	BestActs   string `json:"best_acts"`
+	GoodActs   string `json:"good_acts"`
+	WorstActs  string `json:"worst_acts"`
+	BestFoods  string `json:"best_food"`
+	WorstFoods string `json:"worst_food"`
+	Comment    string `json:"comment"`
 }
