@@ -12,15 +12,20 @@ type Artist struct {
 
 func NewAggregate() *Aggregate {
 	a := new(Aggregate)
-	a.BestAct = make(map[string]int)
-	a.GoodAct = make(map[string]int)
-	a.WorstAct = make(map[string]int)
+	a.BestAct = make(map[string]Result)
+	a.GoodAct = make(map[string]Result)
+	a.WorstAct = make(map[string]Result)
 
 	return a
 }
 
 type Aggregate struct {
-	BestAct  map[string]int
-	GoodAct  map[string]int
-	WorstAct map[string]int
+	BestAct  map[string]Result
+	GoodAct  map[string]Result
+	WorstAct map[string]Result
+}
+
+type Result struct {
+	Count int
+	Ids   []int
 }

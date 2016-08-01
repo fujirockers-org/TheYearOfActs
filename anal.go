@@ -14,7 +14,11 @@ import (
 
 const ATTENDANT = "【参加日】"
 
+var counter util.Counter
+
 func main() {
+	counter.Initialize()
+
 	files, err := filepath.Glob("resource/2016/thread/*.html")
 	if err != nil {
 		panic(err)
@@ -67,6 +71,7 @@ func parseVote(t string) Vote {
 	ETC_COMMENT := []string{"【その他一言】", "【一言】"}
 
 	v := new(Vote)
+	v.Id = counter.Get()
 
 	if strings.Contains(t, ATTENDANT) {
 		t = strings.Split(t, ATTENDANT)[1]
@@ -106,35 +111,42 @@ func decodeArtists() []model.Artist {
 func aggregate(votes []Vote, artists []model.Artist) model.Aggregate {
 	agg := model.NewAggregate()
 	for _, v := range votes {
-		agg.BestAct = count(agg.BestAct, v.BestActs, artists)
-		agg.GoodAct = count(agg.GoodAct, v.GoodActs, artists)
-		agg.WorstAct = count(agg.WorstAct, v.WorstActs, artists)
+		agg.BestAct = count(agg.BestAct, v.Id, v.BestActs, artists)
+		agg.GoodAct = count(agg.GoodAct, v.Id, v.GoodActs, artists)
+		agg.WorstAct = count(agg.WorstAct, v.Id, v.WorstActs, artists)
 	}
 	return *agg
 }
 
-func count(m map[string]int, t string, artists []model.Artist) map[string]int {
+func count(m map[string]model.Result, id int, t string, artists []model.Artist) map[string]model.Result {
 	list := []string{}
 	for _, a := range artists {
 		if util.Find(a.Reference, t) {
 			list = append(list, a.Name)
 		}
 	}
-	return collect(m, list)
+	return collect(m, list, id)
 }
 
-func collect(m map[string]int, l []string) map[string]int {
+func collect(m map[string]model.Result, l []string, id int) map[string]model.Result {
 	for _, v := range l {
 		if _, ok := m[v]; ok {
-			m[v]++
+			tmp := m[v]
+			tmp.Count++
+			tmp.Ids = append(m[v].Ids, id)
+			m[v] = tmp
 		} else {
-			m[v] = 1
+			tmp := new(model.Result)
+			tmp.Count = 1
+			tmp.Ids = []int{id}
+			m[v] = *tmp
 		}
 	}
 	return m
 }
 
 type Vote struct {
+	Id         int
 	Attend     string `json:"attend"`
 	BestActs   string `json:"best_acts"`
 	GoodActs   string `json:"good_acts"`
