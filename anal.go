@@ -76,13 +76,21 @@ func parseVote(t string) Vote {
 	if strings.Contains(t, ATTENDANT) {
 		t = strings.Split(t, ATTENDANT)[1]
 	}
-	v.Attend, t = parse(t, BEST_ACT)
-	v.BestActs, t = parse(t, GOOD_ACT)
-	v.GoodActs, t = parse(t, WORST_ACT)
-	v.WorstActs, t = parse(t, BEST_FOOD)
-	v.BestFoods, t = parse(t, WORST_FOOD)
-	v.WorstFoods, t = parse(t, ETC_COMMENT)
-	v.Comment = strings.Trim(t, " 　\r\n")
+
+	// テンプレートをすべて埋めないレスがあるので、レスの最後尾からパースしていく
+	t, v.Comment = parse(t, ETC_COMMENT)
+	t, v.WorstFoods = parse(t, WORST_FOOD)
+	t, v.BestFoods = parse(t, BEST_FOOD)
+	t, v.WorstActs = parse(t, WORST_ACT)
+	t, v.GoodActs = parse(t, GOOD_ACT)
+	t, v.BestActs = parse(t, BEST_ACT)
+
+	a := strings.Split(t, ATTENDANT)
+	if len(a) > 1 {
+		v.Attend = strings.Trim(strings.Join(a[1:], ""), " 　\r\n")
+	} else {
+		v.Attend = strings.Trim(a[0], " 　\r\n")
+	}
 
 	return *v
 }
@@ -91,7 +99,7 @@ func parse(t string, h []string) (string, string) {
 	for _, v := range h {
 		s := strings.Split(t, v)
 		if len(s) > 1 {
-			return strings.Trim(s[0], " 　\r\n"), strings.Join(s[1:], "")
+			return s[0], strings.Trim(strings.Join(s[1:], ""), " 　\r\n")
 		}
 	}
 	return t, ""
@@ -146,7 +154,7 @@ func collect(m map[string]model.Result, l []string, id int) map[string]model.Res
 }
 
 type Vote struct {
-	Id         int
+	Id         int    `json:"id"`
 	Attend     string `json:"attend"`
 	BestActs   string `json:"best_acts"`
 	GoodActs   string `json:"good_acts"`

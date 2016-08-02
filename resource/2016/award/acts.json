@@ -129,10 +129,9 @@
       ]
     },
     "RED HOT CHILI PEPPERS": {
-      "Count": 2,
+      "Count": 1,
       "Ids": [
-        65,
-        77
+        65
       ]
     },
     "ROBERT GLASPER EXPERIMENT": {
@@ -236,7 +235,7 @@
       ]
     },
     "BECK": {
-      "Count": 11,
+      "Count": 12,
       "Ids": [
         16,
         19,
@@ -244,6 +243,7 @@
         35,
         41,
         44,
+        60,
         61,
         68,
         73,
@@ -251,9 +251,16 @@
         80
       ]
     },
-    "BIFFY CLYRO": {
+    "BEN HARPER \u0026 THE INNOCENT CRIMINALS": {
       "Count": 1,
       "Ids": [
+        60
+      ]
+    },
+    "BIFFY CLYRO": {
+      "Count": 2,
+      "Ids": [
+        60,
         78
       ]
     },
@@ -272,18 +279,21 @@
       ]
     },
     "CON BRIO": {
-      "Count": 10,
+      "Count": 13,
       "Ids": [
         5,
         17,
         30,
+        60,
         61,
         62,
         63,
         67,
         67,
         68,
-        71
+        71,
+        72,
+        72
       ]
     },
     "COURTNEY BARNETT": {
@@ -337,11 +347,12 @@
       ]
     },
     "FLIGHT FACILITIES": {
-      "Count": 3,
+      "Count": 4,
       "Ids": [
         5,
         26,
-        38
+        38,
+        60
       ]
     },
     "G.LOVE\u0026SPECIAL SAUCE": {
@@ -491,12 +502,13 @@
       ]
     },
     "SPECIAL GUEST：電気グルーヴ": {
-      "Count": 12,
+      "Count": 13,
       "Ids": [
         4,
         30,
         45,
         50,
+        60,
         64,
         65,
         73,
@@ -570,9 +582,10 @@
       ]
     },
     "THE NEW MASTERSOUNDS": {
-      "Count": 1,
+      "Count": 2,
       "Ids": [
-        6
+        6,
+        72
       ]
     },
     "TOM ODELL": {
@@ -621,7 +634,7 @@
       ]
     },
     "WILCO": {
-      "Count": 8,
+      "Count": 9,
       "Ids": [
         19,
         21,
@@ -629,6 +642,7 @@
         34,
         35,
         46,
+        60,
         63,
         68
       ]
@@ -702,7 +716,7 @@
   },
   "WorstAct": {
     "BABYMETAL": {
-      "Count": 8,
+      "Count": 9,
       "Ids": [
         19,
         23,
@@ -710,6 +724,7 @@
         47,
         57,
         68,
+        72,
         92,
         97
       ]
@@ -797,7 +812,7 @@
       ]
     },
     "RED HOT CHILI PEPPERS": {
-      "Count": 18,
+      "Count": 19,
       "Ids": [
         4,
         14,
@@ -810,6 +825,7 @@
         53,
         64,
         75,
+        77,
         79,
         80,
         84,
